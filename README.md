@@ -140,13 +140,6 @@ python 03_bot.py
 * The `.env` file is excluded from source control via `.gitignore`.
 * A sanitized `.env.example` is maintained for safe collaboration.
 
-
-## 👨‍💻 Author
-
-**Akhilesh Yadav**  
-*Computer Science & Engineering (Artificial Intelligence & Machine Learning)*  
-GitHub: [@AkhileshYadav117](https://github.com/AkhileshYadav117)
-
 ---
 
 ## 📄 License
