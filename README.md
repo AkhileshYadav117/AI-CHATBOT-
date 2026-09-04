@@ -155,9 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## ⭐ Support
-
-If you found this project useful or interesting, please consider giving it a ⭐ Star on GitHub.
+⭐ If you found this project useful, consider giving it a Star.
 
 <div align="center">
 
