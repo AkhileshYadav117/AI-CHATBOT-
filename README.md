@@ -148,8 +148,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ If you found this project useful, consider giving it a Star.
-
 <div align="center">
 
 🤖 **Built with Python + Groq + AI**  
